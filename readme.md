@@ -42,7 +42,7 @@ Installation Instruction
 * Click Upload Plugin Zip File
 * Upload the zipped gourl_wordpress file and click "Upload Now"
 * Go to Installed Plugins
-* Activate the "GoUrl AppThemes - Bitcoin Payments for Classipress, Vantage, JobRoller, etc"
+* Activate the "GoUrl AppThemes - Bitcoin Payments Classipress, Vantage, JobRoller"
 
   
   

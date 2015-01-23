@@ -1,4 +1,4 @@
-=== GoUrl AppThemes - Bitcoin Payments for Classipress, Vantage, JobRoller, etc ===
+=== GoUrl AppThemes - Bitcoin Payments Classipress, Vantage, JobRoller ===
 Contributors: gourl, GoUrl.io
 Plugin Name: GoUrl AppThemes - Bitcoin Payments for Classipress, Vantage, JobRoller, etc
 Plugin URI: https://gourl.io/bitcoin-appthemes-classipress-jobroller-vantage-etc.html
@@ -62,7 +62,7 @@ In the search field type "GoUrl Appthemes" and click Search Plugins. Once you've
 * Click Upload Plugin Zip File
 * Upload the zipped gourl_wordpress file and click "Upload Now"
 * Go to Installed Plugins
-* Activate the "GoUrl AppThemes - Bitcoin Payments for Classipress, Vantage, JobRoller, etc"
+* Activate the "GoUrl AppThemes - Bitcoin Payments Classipress, Vantage, JobRoller"
 
 
 
