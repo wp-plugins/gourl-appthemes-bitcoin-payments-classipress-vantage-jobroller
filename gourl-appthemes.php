@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: 		GoUrl AppThemes - Bitcoin Payments Classipress, Vantage, JobRoller
+Plugin Name: 		GoUrl AppThemes - Bitcoin Payments Classipress Vantage JobRoller
 Plugin URI: 		https://gourl.io/bitcoin-appthemes-classipress-jobroller-vantage-etc.html
-Description: 		Provides a <a href="https://gourl.io">GoUrl.io</a> Bitcoin Payment Gateway for AppThemes Premium Themes - Classipress, Vantage, JobRoller, Clipper, Taskerr, HireBee, Ideas, Quality Control, etc. Support product prices in USD/EUR/etc or in Bitcoin/Altcoins directly and sends the amount straight to your business Bitcoin/Altcoin wallet. Convert your USD/EUR/etc prices to cryptocoins using Google/Cryptsy Live Exchange Rates. Accept Bitcoin, Litecoin, Dogecoin, Speedcoin, Darkcoin, Vertcoin, Reddcoin, Feathercoin, Vericoin, Potcoin payments online. No Chargebacks, Global, Secure. All in automatic mode.
+Description: 		Provides a <a href="https://gourl.io">GoUrl.io</a> Bitcoin Payment Gateway for All AppThemes Premium Themes - Classipress, Vantage, JobRoller, Clipper, Taskerr, HireBee, Ideas, Quality Control, etc. Support product prices in USD/EUR/etc or in Bitcoin/Altcoins directly and sends the amount straight to your business Bitcoin/Altcoin wallet. Convert your USD/EUR/etc prices to cryptocoins using Google/Cryptsy Live Exchange Rates. Accept Bitcoin, Litecoin, Dogecoin, Speedcoin, Darkcoin, Vertcoin, Reddcoin, Feathercoin, Vericoin, Potcoin payments online. No Chargebacks, Global, Secure. All in automatic mode.
 Version: 			1.0.0
 Author: 			GoUrl.io
 Author URI: 		https://gourl.io
